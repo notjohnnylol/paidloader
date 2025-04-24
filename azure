@@ -1,4 +1,4 @@
-getgenv().script_key = "jubzJBvaQLEVBVPCjaVNkebUltOJloYG"
+getgenv().script_key = getgenv()['script_key']
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
